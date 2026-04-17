@@ -1,4 +1,4 @@
 # shopping-list
-"- Bacon
+- Bacon
 - Eggs
-- Xbox"
+- Xbox
